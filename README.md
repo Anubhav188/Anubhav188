@@ -6,8 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=79C0FF&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%7C+MERN+%2B+Java;DSA+Problem+Solver+%7C+Logic+Builder;Tech+Enthusiast+%7C+Always+Exploring;B.Tech+CSE+2nd+Year+%7C+Building+Future" />
-
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=22&duration=2500&pause=800&color=79C0FF&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%7C+MERN+%2B+Java;DSA+Problem+Solver+%7C+Logic+Builder;Tech+Enthusiast+%7C+Always+Exploring;B.Tech+CSE+2nd+Year+%7C+Building+Future" />
 <br/>
 
 [![Profile Views](https://komarev.com/ghpvc/?username=Anubhav188&style=for-the-badge&color=79c0ff&label=PROFILE+VIEWS)](https://github.com/Anubhav188)
