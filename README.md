@@ -6,7 +6,7 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=79C0FF&center=true&vCenter=true&width=800&height=60&lines=🌐+Full+Stack+Developer+%7C+MERN+%2B+Java;🧠+DSA+Problem+Solver+%7C+300%2B+Problems+Solved;🔥+Tech+Enthusiast+%7C+Always+Exploring+New+Tech;💡+Clean+Code+Advocate+%7C+Open+Source+Lover;📚+B.Tech+CSE+2nd+Year+%7C+Building+the+Future!" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2500&pause=800&color=79C0FF&center=true&vCenter=true&width=800&height=60&lines=Full+Stack+Developer+%7C+MERN+%2B+Java;DSA+Problem+Solver+%7C+Logic+Builder;Tech+Enthusiast+%7C+Always+Exploring;B.Tech+CSE+2nd+Year+%7C+Building+Future" />
 
 <br/>
 
