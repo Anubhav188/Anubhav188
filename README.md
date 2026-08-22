@@ -125,7 +125,7 @@ motto: "Code it. Break it. Fix it. Ship it. 🚀"
 <table>
 <tr>
 <td align="center" width="210">
-  <img src="https://img.shields.io/badge/🧠-300%2B%20DSA%20Problems-blueviolet?style=for-the-badge"/>
+  <img src="https://img.shields.io/badge/🧠-800%2B%20DSA%20Problems-blueviolet?style=for-the-badge"/>
   <br/><sub>Consistent problem solver</sub>
 </td>
 <td align="center" width="210">
